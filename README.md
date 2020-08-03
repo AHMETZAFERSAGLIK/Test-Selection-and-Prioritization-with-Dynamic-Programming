@@ -1,4 +1,4 @@
-# Test-Selection-and-Prioritization-with-Dynamic-Programming
+# Test-Selection-and-Prioritization-with-Dynamic-Programming (Check my Report = Rapor)
 
 First question was a variant of knapsack problem, total running time was the capacity of the
 sack, amount of bugs were the item values and the running times were the weights. To solve
